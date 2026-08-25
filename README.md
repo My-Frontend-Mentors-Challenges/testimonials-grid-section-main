@@ -58,6 +58,7 @@ I could use flex and I used it successfully at first, but I prefered to try the 
 I've learnt how to use the grid area for the first time, it's simpler and easier I think than making spans between columns and rows.
 I've learnt more about using box shadow with this precise result, and altered its color by myself especially the lightness.
 Edit: I used different background color for body so it wasn't working, now I get it.
+I just noticed that I didn't add the img of quote in the danial article, so I also learnt to implement the position with absolute and relative and using z-index.
 
 
 ### Useful resources

@@ -17,7 +17,7 @@
   box-sizing: border-box;
 }
 body{
-    background-color: var(--Grey-100);
+    background-color: hsl(0, 0%, 97%);
     font-size: calc(1rem - 3px);
     font-family: 'Barlow Semi Condensed';
     padding: 5rem 2rem;
@@ -64,7 +64,7 @@ main > article{
     color: var(--White);
     border-radius: 8px;
     /* box-shadow: 50px 50px 25px 0px hsl(0, 0%, 70%); */
-    box-shadow: 50px 50px 20px 0px var(--Grey-200);
+    box-shadow: 50px 50px 20px 0px hsl(0, 0%, 85%);
 }
 .Daniel{
     background-color: var(--Purple-500);

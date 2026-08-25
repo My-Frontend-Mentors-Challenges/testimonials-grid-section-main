@@ -56,6 +56,7 @@ header{
 I used grid to deal with img and the 2 paragraphs in the header of each article, it makes the space be small as the inline img and max-content to text to only fit it in one line without breaking it to new lines.
 I could use flex and I used it successfully at first, but I prefered to try the grid and it worked.
 I've learnt how to use the grid area for the first time, it's simpler and easier I think than making spans between columns and rows.
+I've learnt more about using box shadow with this precise result, and altered its color by myself especially the lightness.
 
 
 ### Useful resources
